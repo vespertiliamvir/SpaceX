@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="select_a_flight_for_more_details">Select a flight for more details.</string>
+</resources>
